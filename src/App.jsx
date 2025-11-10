@@ -76,7 +76,6 @@ export default function Portfolio() {
         <div className="grid gap-10 text-left">
           {/* About */}
           <section className="bg-white/5 border border-white/10 rounded-2xl p-6 hover:shadow-[0_0_25px_rgba(168,85,247,0.6)] transition">
-            <h2 className="text-xl font-semibold mb-2">About</h2>
             <p className="opacity-80 leading-relaxed">{L.about}</p>
           </section>
 
