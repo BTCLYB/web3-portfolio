@@ -10,7 +10,6 @@ export default function Portfolio() {
     zh: {
       subtitle: "Web3 投机 / 空投玩家",
       about: "实战玩家，专注二级市场、空投策略、DeFi。",
-      results: "战绩",
       contact: "联系",
       email: "邮箱",
     },
