@@ -8,7 +8,7 @@ export default function Portfolio() {
   const t = {
     zh: {
       title: 'zk',
-      subtitle: 'Web3 投资者 / 空投玩家',
+      subtitle: 'Web3 投机者 / 空投玩家',
       about: '实战玩家，专注二级市场、空投策略、DeFi。',
       results: '战绩',
       tools: '工具',
