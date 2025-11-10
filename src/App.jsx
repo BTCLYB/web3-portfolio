@@ -79,7 +79,7 @@ export default function Portfolio() {
             <ul className="opacity-90 space-y-1 list-disc list-inside">
               <li>2022 OP Airdrop ✅</li>
               <li>2023 ARB Airdrop ✅</li>
-              <li>2024 zks Airdrop ❌</li>
+              <li>2024 ZKS Airdrop ❌</li>
               <li>2025 Linea Airdrop ✅</li>
             </ul>
           </section>
