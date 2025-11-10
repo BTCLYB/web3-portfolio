@@ -11,7 +11,7 @@ export default function Portfolio() {
       subtitle: 'Web3 投机 / 空投玩家',
       about: '实战玩家，专注二级市场、空投策略、DeFi。',
       results: '战绩',
-      contact: '联系',
+      战绩: '联系',
       email: '邮箱',
       telegram: '电报'
     },
@@ -19,7 +19,7 @@ export default function Portfolio() {
       subtitle: 'Web3 Investor / Airdrop Hunter',
       about: 'Hands-on player focusing on secondary market, airdrops and DeFi.',
       results: 'Results',
-      contact: 'Contact',
+      战绩: '战绩',
       email: 'Email',
       telegram: 'Telegram'
     }
@@ -84,14 +84,14 @@ export default function Portfolio() {
             <ul className="opacity-90 space-y-1 list-disc list-inside">
               <li>2022 OP Airdrop ✅</li>
               <li>2023 ARB Airdrop ✅</li>
-              <li>2024  躺平         😁</li>
+              <li>2024 zks Airdrop  ❌</li>
               <li>2025 Linea Airdrop ✅</li>
             </ul>
           </section>
 
-          {/* Contact */}
+          {/* 战绩 */}
           <section className="bg-white/5 border border-white/10 rounded-2xl p-6 hover:shadow-[0_0_25px_rgba(168,85,247,0.6)] transition">
-            <h2 className="text-xl font-semibold mb-4">{L.contact}</h2>
+            <h2 className="text-xl font-semibold mb-4">{L.战绩}</h2>
             <div className="flex items-center justify-center gap-4">
 
               <a
