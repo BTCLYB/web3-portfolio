@@ -87,11 +87,11 @@ export default function Portfolio() {
           {/* Contact — Minimal */}
           <section className="py-6 text-center">
             <a
-              href="mailto:btclyb@gmail.com"
+              href="mailto:kk@zhuke.ggff.net"
               className="inline-flex items-center gap-2 text-lg text-purple-200 hover:text-purple-300 transition"
             >
               <Mail size={18} />
-              btclyb@gmail.com
+              kk@zhuke.ggff.net
               <span className="text-sm opacity-70">↗</span>
             </a>
           </section>
